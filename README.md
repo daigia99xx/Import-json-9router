@@ -4,7 +4,7 @@
 
 
 
-Video cách sử dụng: https://youtu.be/TP8TjjmHSRA?si=ftBYLNe_Dw3NvhbC
+
 
 Công cụ tự động import hàng loạt **OAuth token của ChatGPT/Codex** (định dạng JSON do CLI codex / extension lưu lại) thẳng vào database của **9router** (`data.sqlite` hoặc `db.json` cũ).
 
