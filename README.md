@@ -1,8 +1,8 @@
 # 9router – ChatGPT/Codex Bulk Importer
 
-NGUỒN TOOL CỦA TELEGRAM @BotbanloBot (Bán Account ChatGPT Plus dạng Json số lượng lớn giá chỉ từ 10k/1)
+NGUỒN TOOL CỦA TELEGRAM @@Tainguyen_gptbot (Bán Account ChatGPT Plus dạng Json số lượng lớn giá chỉ từ 10k/1)
 
-<img width="480" height="1039" alt="image" src="https://github.com/user-attachments/assets/5853196b-9148-4c61-8eff-269eb4b5181c" />
+
 
 Video cách sử dụng: https://youtu.be/TP8TjjmHSRA?si=ftBYLNe_Dw3NvhbC
 
